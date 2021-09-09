@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Dentist Appointment",
+      "day": "September 9th at 11am",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Breakdancing Practice",
+      "day": "September 13th at 11am",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Grocery Shopping",
+      "day": "September 10th at 1pm",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
